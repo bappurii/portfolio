@@ -1,0 +1,20 @@
+nav ul {
+    list-style-type: none;
+    text-align: right;
+    border-bottom: 2px solid gainsboro;
+}
+nav li {
+    display: inline;
+}
+.content{
+    border: 2px solid gainsboro;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 30px 0px;
+}
+.content_box{
+    margin: 20px;
+}
+.content h2{
+    margin: 3px;
+}
